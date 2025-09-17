@@ -153,15 +153,3 @@ Future improvements planned:
 ![image](https://github.com/user-attachments/assets/9877245c-1117-4239-a82d-bd94b314dd72)
 
 
-## Citation
-
-If you use this project in your research or work, please cite it as:
-
-```bibtex
-@software{cancer_detection_webapp,
-  author = {[Faraz Shamim]},
-  title = {Cancer Detection Web Application},
-  year = {2024},
-  url = {https://github.com/mr-imperium/cancer-detection}
-}
-```
