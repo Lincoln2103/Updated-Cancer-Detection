@@ -1,4 +1,4 @@
-# Cancer Detection Web Application 🔬
+# Cancer Detection Web Application 
 
 A deep learning-powered web application for detecting cancer in medical images. Built with Streamlit and PyTorch, this application uses a fine-tuned ResNet34 model to provide real-time cancer detection from medical imaging data.
 
